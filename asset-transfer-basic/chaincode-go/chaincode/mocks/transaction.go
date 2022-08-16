@@ -4,8 +4,8 @@ package mocks
 import (
 	"sync"
 
-	"gitee.com/zhaochuninhefei/fabric-chaincode-go-gm/pkg/cid"
-	"gitee.com/zhaochuninhefei/fabric-chaincode-go-gm/shim"
+	"github.com/hxx258456/fabric-chaincode-go-gm/pkg/cid"
+	"github.com/hxx258456/fabric-chaincode-go-gm/shim"
 )
 
 type TransactionContext struct {

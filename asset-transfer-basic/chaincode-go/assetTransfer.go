@@ -7,8 +7,8 @@ package main
 import (
 	"log"
 
-	"gitee.com/zhaochuninhefei/fabric-contract-api-go-gm/contractapi"
-	"gitee.com/zhaochuninhefei/fabric-samples-gm/asset-transfer-basic/chaincode-go/chaincode"
+	"github.com/hxx258456/fabric-contract-api-go-gm/contractapi"
+	"github.com/hxx258456/fabric-samples-gm/asset-transfer-basic/chaincode-go/chaincode"
 )
 
 func main() {

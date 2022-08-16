@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"fmt"
 
-	"gitee.com/zhaochuninhefei/fabric-contract-api-go-gm/contractapi"
+	"github.com/hxx258456/fabric-contract-api-go-gm/contractapi"
 )
 
 // SmartContract provides functions for managing an Asset

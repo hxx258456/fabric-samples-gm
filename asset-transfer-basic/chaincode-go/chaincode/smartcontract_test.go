@@ -5,11 +5,11 @@ import (
 	"fmt"
 	"testing"
 
-	"gitee.com/zhaochuninhefei/fabric-chaincode-go-gm/shim"
-	"gitee.com/zhaochuninhefei/fabric-contract-api-go-gm/contractapi"
-	"gitee.com/zhaochuninhefei/fabric-protos-go-gm/ledger/queryresult"
-	"gitee.com/zhaochuninhefei/fabric-samples-gm/asset-transfer-basic/chaincode-go/chaincode"
-	"gitee.com/zhaochuninhefei/fabric-samples-gm/asset-transfer-basic/chaincode-go/chaincode/mocks"
+	"github.com/hxx258456/fabric-chaincode-go-gm/shim"
+	"github.com/hxx258456/fabric-contract-api-go-gm/contractapi"
+	"github.com/hxx258456/fabric-protos-go-gm/ledger/queryresult"
+	"github.com/hxx258456/fabric-samples-gm/asset-transfer-basic/chaincode-go/chaincode"
+	"github.com/hxx258456/fabric-samples-gm/asset-transfer-basic/chaincode-go/chaincode/mocks"
 	"github.com/stretchr/testify/require"
 )
 
