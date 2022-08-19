@@ -3,17 +3,13 @@ module asset-transfer-basic
 go 1.17
 
 require (
-	gitee.com/zhaochuninhefei/fabric-sdk-go-gm v0.0.6
 	gitee.com/zhaochuninhefei/zcgolog v0.0.14
+	github.com/hxx258456/fabric-sdk-go-gm v0.0.2
 )
 
 require (
 	bitbucket.org/creachadair/shell v0.0.6 // indirect
 	cloud.google.com/go v0.99.0 // indirect
-	gitee.com/zhaochuninhefei/cfssl-gm v0.0.4 // indirect
-	gitee.com/zhaochuninhefei/fabric-config-gm v0.0.4 // indirect
-	gitee.com/zhaochuninhefei/fabric-protos-go-gm v0.0.1 // indirect
-	gitee.com/zhaochuninhefei/gmgo v0.0.17 // indirect
 	github.com/Knetic/govaluate v3.0.1-0.20171022003610-9aa49832a739+incompatible // indirect
 	github.com/benbjohnson/clock v1.1.0 // indirect
 	github.com/beorn7/perks v1.0.1 // indirect
@@ -23,7 +19,7 @@ require (
 	github.com/cncf/udpa/go v0.0.0-20210930031921-04548b0d99d4 // indirect
 	github.com/cncf/xds/go v0.0.0-20211130200136-a8f946100490 // indirect
 	github.com/coreos/go-semver v0.3.0 // indirect
-	github.com/coreos/go-systemd/v22 v22.3.2 // indirect
+	github.com/coreos/go-systemd/v22 v22.3.3-0.20220203105225-a9a7ef127534 // indirect
 	github.com/cpuguy83/go-md2man/v2 v2.0.0 // indirect
 	github.com/davecgh/go-spew v1.1.1 // indirect
 	github.com/dustin/go-humanize v1.0.0 // indirect
@@ -48,6 +44,10 @@ require (
 	github.com/grpc-ecosystem/go-grpc-prometheus v1.2.0 // indirect
 	github.com/grpc-ecosystem/grpc-gateway v1.16.0 // indirect
 	github.com/hashicorp/hcl v1.0.0 // indirect
+	github.com/hxx258456/ccgo v0.0.3 // indirect
+	github.com/hxx258456/cfssl-gm v0.0.2 // indirect
+	github.com/hxx258456/fabric-config-gm v0.0.2 // indirect
+	github.com/hxx258456/fabric-protos-go-gm v0.0.2 // indirect
 	github.com/inconshreveable/mousetrap v1.0.0 // indirect
 	github.com/jhump/protoreflect v1.9.0 // indirect
 	github.com/jonboulle/clockwork v0.2.2 // indirect
@@ -76,7 +76,7 @@ require (
 	github.com/spf13/jwalterweatherman v1.1.0 // indirect
 	github.com/spf13/pflag v1.0.5 // indirect
 	github.com/spf13/viper v1.10.1 // indirect
-	github.com/stretchr/testify v1.7.1 // indirect
+	github.com/stretchr/testify v1.8.0 // indirect
 	github.com/subosito/gotenv v1.2.0 // indirect
 	github.com/tmc/grpc-websocket-proxy v0.0.0-20201229170055-e5319fda7802 // indirect
 	github.com/urfave/cli v1.22.5 // indirect
@@ -126,7 +126,7 @@ require (
 	gopkg.in/ini.v1 v1.66.2 // indirect
 	gopkg.in/natefinch/lumberjack.v2 v2.0.0 // indirect
 	gopkg.in/yaml.v2 v2.4.0 // indirect
-	gopkg.in/yaml.v3 v3.0.0-20210107192922-496545a6307b // indirect
+	gopkg.in/yaml.v3 v3.0.1 // indirect
 	sigs.k8s.io/yaml v1.2.0 // indirect
 )
 

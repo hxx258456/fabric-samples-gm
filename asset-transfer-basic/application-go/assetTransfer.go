@@ -12,9 +12,9 @@ import (
 	"os"
 	"path/filepath"
 
-	"gitee.com/zhaochuninhefei/fabric-sdk-go-gm/pkg/core/config"
-	"gitee.com/zhaochuninhefei/fabric-sdk-go-gm/pkg/gateway"
 	"gitee.com/zhaochuninhefei/zcgolog/zclog"
+	"github.com/hxx258456/fabric-sdk-go-gm/pkg/core/config"
+	"github.com/hxx258456/fabric-sdk-go-gm/pkg/gateway"
 )
 
 func main() {
